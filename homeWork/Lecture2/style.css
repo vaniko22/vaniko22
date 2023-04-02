@@ -1,0 +1,27 @@
+#img1, #img2, #img3, #img4, #img5, #img6{
+    width: 200px;
+    height: 150px;
+}
+
+.rand-img{
+    top: 930px;
+    position: absolute;
+}
+
+.rand1-img{
+    top: 1090px;
+    position: absolute;
+}
+
+.task14{
+    top: 1320px;
+    position: absolute;
+}
+
+.table1{
+    margin-top: 700px;
+}
+
+#img11{
+    width: 100px;
+}
